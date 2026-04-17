@@ -1,0 +1,17 @@
+# Template 3: Pain Point (PAS)
+
+## Subject
+{pain point} at {company}?
+
+## Body
+Hi {firstName},
+
+Most {jobTitle}s at {companySize} companies tell us {painPoint} is eating 5+ hours a week.
+
+We built a solution specifically for this. Takes 15 minutes to see if it fits.
+
+Worth a look?
+
+—
+Oyebanji
+Founder, XanderCorp

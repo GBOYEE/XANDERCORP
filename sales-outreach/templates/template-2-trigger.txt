@@ -1,0 +1,17 @@
+# Template 2: Trigger Event
+
+## Subject
+congrats on the raise
+
+## Body
+Hi {firstName},
+
+Saw {company} just closed {funding round}. Most teams at this stage start scaling outbound but hit data quality issues fast.
+
+We helped {similar company} automate their outreach and cut manual work by 40%.
+
+Interested in how?
+
+—
+Oyebanji
+Founder, XanderCorp

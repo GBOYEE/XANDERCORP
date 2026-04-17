@@ -1,0 +1,15 @@
+# Template 1: Value-First Audit
+
+## Subject
+quick question about {company}
+
+## Body
+Hi {firstName},
+
+I looked at {company}'s top landing pages. There are 3 specific fixes that could improve conversion — I'll record a Loom walkthrough if you're interested.
+
+No pitch, just the audit. Worth it?
+
+—
+Oyebanji
+Founder, XanderCorp

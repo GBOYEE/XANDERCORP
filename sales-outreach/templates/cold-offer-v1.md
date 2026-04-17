@@ -1,5 +1,7 @@
 # Cold Offer Templates
-## XanderCorp — AI Agent Systems
+## XanderCorp — AI Automation Systems
+
+> **Focus: Business outcomes, not technical jargon**
 
 ---
 
@@ -11,15 +13,15 @@ Hey [Name],
 
 I noticed [Company Name] [specific observation about their business].
 
-I help businesses like yours automate repetitive tasks with custom AI agents — the kind that run 24/7 and handle [their pain point].
+I build AI automation systems that help businesses like yours eliminate repetitive work, generate leads, and scale faster.
 
-Most clients save 10-20 hours per week after implementing one agent.
+Most clients save 10-20 hours per week after implementing one AI agent.
 
 Would you be open to a quick 15-minute call this week?
 
 Best,
 GBOYEE
-XanderCorp — AI Agent Systems
+XanderCorp
 
 ---
 
@@ -34,9 +36,9 @@ I saw that [Company Name] [specific process they might be doing manually].
 I build AI agents that automate exactly this — so your team stops wasting time on repetitive tasks.
 
 Here's what I'd build for you:
-• [Agent feature 1]
-• [Agent feature 2]
-• [Agent feature 3]
+• [Feature that saves time]
+• [Feature that generates revenue]
+• [Feature that scales operations]
 
 Starting at $150 (delivered in 3 days).
 
@@ -44,7 +46,6 @@ Wanna see a quick demo?
 
 Best,
 GBOYEE
-XanderCorp
 
 ---
 
@@ -54,7 +55,7 @@ XanderCorp
 
 Hey [Name],
 
-I just finished building an AI agent for [similar company] that [what it does].
+I just finished building an AI automation system for [similar company] that [what it does].
 
 They went from [manual process] to fully automated — saving [X] hours per week.
 
@@ -64,21 +65,20 @@ Got 15 minutes for a quick call?
 
 Best,
 GBOYEE
-XanderCorp
 
 ---
 
 ## Template 4: Below Market Price Offer
 
-**Subject:** AI agents at half the price you'd pay elsewhere
+**Subject:** AI automation at half the price you'd pay elsewhere
 
 Hey [Name],
 
-Most AI agent agencies charge $1,000+ for custom automation.
+Most AI automation agencies charge $1,000+ for custom systems.
 
 I charge $150-800 depending on complexity — and I deliver in 3-7 days.
 
-I've built [X] production AI systems for businesses like yours.
+I've built 20+ production AI systems for businesses like yours.
 
 What repetitive task is eating up your team's time? I can probably automate it.
 
@@ -86,13 +86,12 @@ Let's chat.
 
 Best,
 GBOYEE
-XanderCorp — AI Agent Systems
 
 ---
 
 ## Template 5: Follow-Up
 
-**Subject:** Re: AI agents — one more thing
+**Subject:** Re: AI automation — one more thing
 
 Hey [Name],
 
@@ -113,18 +112,31 @@ GBOYEE
 
 **Message:**
 
-Hi [Name], I help businesses automate repetitive tasks with custom AI agents. Would love to share how we could help [Company Name].
+Hi [Name], I help businesses eliminate repetitive work with AI automation. Would love to share how we could help [Company Name].
 
 ---
 
 ## Key Principles
 
-1. **Keep it short** — 3-4 sentences max
-2. **Specific observation** — shows research
-3. **Clear value** — what they'll get
-4. **Below market price** — emphasize affordability
-5. **Easy ask** — just a call, no commitment
-6. **Fast delivery** — 3-7 days is a hook
+1. **Lead with business value** — "eliminate repetitive work" not "build AI agents"
+2. **Keep it short** — 3-4 sentences max
+3. **Specific observation** — shows research
+4. **Clear outcome** — what they'll get (hours saved, leads generated)
+5. **Below market price** — emphasize affordability
+6. **Easy ask** — just a call, no commitment
+7. **Fast delivery** — 3-7 days is a hook
+
+---
+
+## What NOT To Say
+
+❌ "I work with LLMs, vector databases, and orchestration frameworks"  
+❌ "I'm an AI Systems Engineer specializing in multi-agent architectures"  
+❌ "I build infrastructure for autonomous AI agents"
+
+✅ "I help businesses automate repetitive tasks"  
+✅ "Save 10-20 hours per week"  
+✅ "AI agents that run 24/7"
 
 ---
 

@@ -1,0 +1,176 @@
+[
+  {
+    "industry": "saas_startups",
+    "niche": "saas_startups",
+    "pain_points": [
+      "customer support",
+      "onboarding",
+      "user research",
+      "lead qualification"
+    ],
+    "platforms": [
+      "linkedin",
+      "producthunt",
+      "twitter"
+    ],
+    "outreach_priority": "HIGH",
+    "offer_suggestion": "AI agent for customer support",
+    "estimated_budget": "$150-800"
+  },
+  {
+    "industry": "ecommerce",
+    "niche": "ecommerce",
+    "pain_points": [
+      "customer service",
+      "inventory management",
+      "order processing",
+      "review responses"
+    ],
+    "platforms": [
+      "shopify app store",
+      "ecommerce forums",
+      "linkedin"
+    ],
+    "outreach_priority": "HIGH",
+    "offer_suggestion": "AI agent for customer service",
+    "estimated_budget": "$150-800"
+  },
+  {
+    "industry": "agencies",
+    "niche": "agencies",
+    "pain_points": [
+      "client reporting",
+      "content creation",
+      "social media",
+      "lead gen"
+    ],
+    "platforms": [
+      "linkedin",
+      "clutch",
+      "upwork"
+    ],
+    "outreach_priority": "HIGH",
+    "offer_suggestion": "AI agent for client reporting",
+    "estimated_budget": "$150-800"
+  },
+  {
+    "industry": "real_estate",
+    "niche": "real_estate",
+    "pain_points": [
+      "lead follow-up",
+      "scheduling",
+      "listing updates",
+      "inquiry responses"
+    ],
+    "platforms": [
+      "linkedin",
+      "real estate forums",
+      "facebook groups"
+    ],
+    "outreach_priority": "MEDIUM",
+    "offer_suggestion": "AI agent for lead follow-up",
+    "estimated_budget": "$150-800"
+  },
+  {
+    "industry": "healthcare",
+    "niche": "healthcare",
+    "pain_points": [
+      "appointment scheduling",
+      "patient follow-up",
+      "records management"
+    ],
+    "platforms": [
+      "linkedin",
+      "healthcare forums"
+    ],
+    "outreach_priority": "MEDIUM",
+    "offer_suggestion": "AI agent for appointment scheduling",
+    "estimated_budget": "$150-800"
+  },
+  {
+    "industry": "restaurants",
+    "niche": "restaurants",
+    "pain_points": [
+      "reservation management",
+      "order taking",
+      "review responses",
+      "delivery coordination"
+    ],
+    "platforms": [
+      "google maps",
+      "yelp",
+      "linkedin"
+    ],
+    "outreach_priority": "MEDIUM",
+    "offer_suggestion": "AI agent for reservation management",
+    "estimated_budget": "$150-800"
+  },
+  {
+    "industry": "logistics",
+    "niche": "logistics",
+    "pain_points": [
+      "tracking updates",
+      "customer communication",
+      "dispatch",
+      "route optimization"
+    ],
+    "platforms": [
+      "linkedin",
+      "logistics forums"
+    ],
+    "outreach_priority": "MEDIUM",
+    "offer_suggestion": "AI agent for tracking updates",
+    "estimated_budget": "$150-800"
+  },
+  {
+    "industry": "recruitment",
+    "niche": "recruitment",
+    "pain_points": [
+      "candidate sourcing",
+      "resume screening",
+      "interview scheduling",
+      "follow-ups"
+    ],
+    "platforms": [
+      "linkedin",
+      "recruitment forums"
+    ],
+    "outreach_priority": "MEDIUM",
+    "offer_suggestion": "AI agent for candidate sourcing",
+    "estimated_budget": "$150-800"
+  },
+  {
+    "industry": "finance",
+    "niche": "finance",
+    "pain_points": [
+      "data entry",
+      "report generation",
+      "client communication",
+      "compliance tracking"
+    ],
+    "platforms": [
+      "linkedin",
+      "finance forums"
+    ],
+    "outreach_priority": "MEDIUM",
+    "offer_suggestion": "AI agent for data entry",
+    "estimated_budget": "$150-800"
+  },
+  {
+    "industry": "education",
+    "niche": "education",
+    "pain_points": [
+      "student communication",
+      "assignment grading",
+      "enrollment",
+      "parent updates"
+    ],
+    "platforms": [
+      "linkedin",
+      "education forums"
+    ],
+    "outreach_priority": "MEDIUM",
+    "offer_suggestion": "AI agent for student communication",
+    "estimated_budget": "$150-800"
+  }
+]
